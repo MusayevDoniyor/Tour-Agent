@@ -359,5 +359,5 @@ Doniyor
 
 ## Bog'lanish
 
-- Email: [sizning@email.com](mailto:doniyormusayev2009@gmail.com)
-- GitHub: [github.com/username](https://github.com/MusayevDoniyor)
+- Email: [doniyormusayev2009@gmail.com](mailto:doniyormusayev2009@gmail.com)
+- GitHub: [MusayevDoniyor](https://github.com/MusayevDoniyor)
